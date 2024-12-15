@@ -1,1 +1,1 @@
-# gitDom3
+Coś tam jest.
